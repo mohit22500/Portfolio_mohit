@@ -648,14 +648,5 @@ footer .social a:hover{
    }
 
 }
-.navbar{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
 
-.dark-icon{
-    width: 30px;
-    margin-left: 60px;
-    cursor: pointer;
-}
+
